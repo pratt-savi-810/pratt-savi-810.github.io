@@ -1,0 +1,11 @@
+# Site settings
+title: Introduction to Python Scripting for Geospatial
+email: 
+description: > # Pratt SAVI 810 Introduction to Python Scripting for Geospatial
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://pratt-savi-810.github.io" # the base hostname & protocol for your site
+twitter_username: 
+github_username: pratt-savi-810
+
+# Build settings
+markdown: kramdown
