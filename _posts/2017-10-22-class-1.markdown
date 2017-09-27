@@ -8,3 +8,5 @@ categories: class
 ### Welcome to the class!!!
 
 Find more about the course in the [About](/about) section!
+
+Check out the [Instructer Bio](https://commons.pratt.edu/savi/danny-sheehan/).
