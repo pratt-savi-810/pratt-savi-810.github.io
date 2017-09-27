@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome to Introduction to Python Scripting for Geospatial!"
+date:   2017-09-27 13:45:39
+categories: class
+---
+
+Welcome to the class!!!
+
+Find more about the course in the [About](/about) section!
