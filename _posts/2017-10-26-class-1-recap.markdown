@@ -10,7 +10,7 @@ Greetings class!
 
 # Recap from Class 1
 
-Robert and Antti can you accept the invite to the GitHub group for the class, or request here: https://github.com/orgs/pratt-savi-810 - thanks? 
+Robert and Antti can you accept the invite to the GitHub group for the class, or request here: [https://github.com/orgs/pratt-savi-810](https://github.com/orgs/pratt-savi-810) - thanks? 
 
 * Also we'll need to create some project folders so use **project-[github accountname]**, i.e. `project-nygeog`
 
