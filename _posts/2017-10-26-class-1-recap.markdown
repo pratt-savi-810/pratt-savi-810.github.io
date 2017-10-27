@@ -31,7 +31,7 @@ Here's some stuff I added to our first class notes [https://github.com/pratt-sav
 * If you'd like to see all the stuff we did interactively, its available here:
 	* [https://github.com/pratt-savi-810/pratt-savi-810-2017-10/issues/7](https://github.com/pratt-savi-810/pratt-savi-810-2017-10/issues/7)
 
-# For next class:
+# For next class (if you have time):
 
 ### Open a GitHub Issue
 https://help.github.com/articles/creating-an-issue/
