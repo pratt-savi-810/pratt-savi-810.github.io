@@ -14,7 +14,7 @@ Robert and Antti can you accept the invite to the GitHub group for the class, or
 
 * Also we'll need to create some project folders so use **project-[github accountname]**, i.e. `project-nygeog`
 
-Here's some stuff I added to our first class notes (https://github.com/pratt-savi-810/pratt-savi-810-2017-10/blob/master/class-2017-10-21.ipynb):
+Here's some stuff I added to our first class notes [https://github.com/pratt-savi-810/pratt-savi-810-2017-10/blob/master/class-2017-10-21.ipynb](https://github.com/pratt-savi-810/pratt-savi-810-2017-10/blob/master/class-2017-10-21.ipynb):
 
 * More about Data Structures	
 	* [https://github.com/pratt-savi-810/pratt-savi-810-2017-10/blob/master/class-2017-10-21.ipynb#More-on-Data-Structures](https://github.com/pratt-savi-810/pratt-savi-810-2017-10/blob/master/class-2017-10-21.ipynb#More-on-Data-Structures)
