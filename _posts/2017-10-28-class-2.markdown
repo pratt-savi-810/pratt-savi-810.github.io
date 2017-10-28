@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Class 2"
+date:   2017-10-28 06:45:39
+categories: class
+---
+
+
+Greetings class!
+
+# Class 2
+
+See **Class 2** materials here: [https://github.com/pratt-savi-810/pratt-savi-810-2017-10/blob/master/class-2017-10-28.ipynb](https://github.com/pratt-savi-810/pratt-savi-810-2017-10/blob/master/class-2017-10-28.ipynb)
+
+
+**ATTENTION: We'll need to use Lab computers at some points today for ArcMap's ArcPy language!**
